@@ -1,0 +1,3 @@
+rootProject.name = 'hibernate-lazybones'
+include 'hibernate-lazybones-basic'
+
